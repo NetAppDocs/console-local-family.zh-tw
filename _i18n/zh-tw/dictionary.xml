@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">使用自助選項</block>
+  <block id="e1b60c2ad9c154960f01bfe202788f74" category="paragraph">NetApp 以多種方式為 NetApp Console 本地部署提供支援。全年無休提供豐富的免費自助支援選項，例如知識庫 （KB） 文章和社群論壇。您的支援註冊包含透過線上工單系統提供的遠端技術支援。</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">這些選項全天候 24 小時、每週 7 天免費提供：</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文件</block>
+  <block id="5bb94d173380c00577f5e04b6f26bb94" category="paragraph">您目前正在檢視的 NetApp Console 文件。</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">知識庫</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="0e20091afcea2d83d0033a933ba85092" category="paragraph">搜尋 NetApp 知識庫，尋找有助於疑難排解問題的文章。</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">社群</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="777d75a90b107e4f18469f82c4f81fe2" category="paragraph">加入 NetApp Console 社群，參與現有討論或建立新討論。</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">支援註冊總覽</block>
+  <block id="c3bd989c2b5ac8d3c39d676c243f24c8" category="paragraph">要獲得針對 NetApp Console 本機部署及其儲存設備解決方案和資料服務的技術支援，需要進行支援註冊。</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">啟動支援資格有兩種註冊方式：</block>
+  <block id="869a868c87f6fb61410cfd773b4f1bab" category="list-text">註冊您的 NetApp Console 帳戶序號（您的 20 位數 960xxxxxxxxx 序號位於 Console 的支援資源頁面上）。</block>
+  <block id="be0b51de4268d87101344aa0368b4403" category="paragraph">這是您在 Console 內使用所有服務的單一支援訂閱 ID。每個 Console 帳戶必須註冊。</block>
+  <block id="ef5915c0fd287d47e033f66df5168a2d" category="sidebar">NetApp Console 本地部署使團隊能夠透過一個安全的控制平台，在本地環境中實現至能的機組管理。您可以按功能瀏覽文件，也可以使用搜尋功能尋找內容。</block>
+  <block id="fe908ff50fedb21b0879418bfa836719" category="sidebar">NetApp Console 本地部署讓團隊能夠透過一個安全的控制平面，在本地環境中實現至能的機組管理。</block>
+  <block id="fae210aa9f9d8906ee39264d97001f11" category="sidebar">NetApp Console 本地部署</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
+  <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
+  <block id="000fa64b9d4129e5c8d4065ad88f7816" category="sidebar">Console 本地部署</block>
+  <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保護</block>
+  <block id="d4235acc6cfb5ad04f208b8c67cc4f11" category="sidebar">NetApp Console 本地部署使團隊能夠透過一個安全的控制平面，在本地環境中實現至能的機組管理。</block>
+  <block id="cc6088539286339733631d73fb51774b" category="sidebar">NetApp Backup and Recovery</block>
+  <block id="231d0185318cf25dc336c3835730b9dc" category="sidebar">保護和恢復您的 ONTAP 資源。</block>
+  <block id="2552252bf4a8c9e15e4b1a3811386d74" category="sidebar">NetApp Console 本機部署 API 文件</block>
+  <block id="c8a24b7035b964928d14fa8f2946396a" category="sidebar">使用 NetApp Console 本機部署 API，以程式設計方式管理您的 NetApp Console 本機部署和儲存資源。</block>
+  <block id="c8687cc8b0048d02ed49a88bc671ffa6" category="sidebar">NetApp Console 本地部署版本說明</block>
+  <block id="986fa776fdb2bf5c17fa6df68739dcd7" category="sidebar">NetApp Console 本機部署版本說明提供有關最新版本中的新功能、增強功能和已解決問題的資訊。</block>
+</blocks>

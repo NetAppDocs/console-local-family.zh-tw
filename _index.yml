@@ -1,0 +1,32 @@
+---
+product-family:
+  title: NetApp Console 本地部署
+  lead: NetApp Console 本地部署使團隊能夠透過一個安全的控制平台，在本地環境中實現至能的機組管理。您可以按功能瀏覽文件，也可以使用搜尋功能尋找內容。
+  summary: NetApp Console 本地部署讓團隊能夠透過一個安全的控制平面，在本地環境中實現至能的機組管理。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: Console 本地部署
+    tags: console-local
+  - title: 保護
+    tags: data services
+  tiles:
+  - title: NetApp Console 本地部署
+    url: "../console-local/index.html"
+    summary: NetApp Console 本地部署使團隊能夠透過一個安全的控制平面，在本地環境中實現至能的機組管理。
+    tags: all, console-local
+  - title: NetApp Backup and Recovery
+    url: "../data-services-backup-recovery/index.html"
+    summary: 保護和恢復您的 ONTAP 資源。
+    tags: all, data services
+  - title: NetApp Console 本機部署 API 文件
+    url: "../console-local-automation/index.html"
+    summary: 使用 NetApp Console 本機部署 API，以程式設計方式管理您的 NetApp Console 本機部署和儲存資源。
+    tags: all, api
+  - title: NetApp Console 本地部署版本說明
+    url: "../console-local-relnotes/index.html"
+    summary: NetApp Console 本機部署版本說明提供有關最新版本中的新功能、增強功能和已解決問題的資訊。
+    tags: all

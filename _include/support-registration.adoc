@@ -1,0 +1,18 @@
+= 支援註冊總覽
+:allow-uri-read: 
+
+
+要獲得針對 NetApp Console 本機部署及其儲存設備解決方案和資料服務的技術支援，需要進行支援註冊。
+
+
+
+[[support-registration-overview]]
+== 支援註冊總覽
+
+啟動支援資格有兩種註冊方式：
+
+* 註冊您的 NetApp Console 帳戶序號（您的 20 位數 960xxxxxxxxx 序號位於 Console 的支援資源頁面上）。
++
+這是您在 Console 內使用所有服務的單一支援訂閱 ID。每個 Console 帳戶必須註冊。
+
+
